@@ -5,7 +5,8 @@
   "pillar": "loslassen",
   "pillarLabel": "Loslassen & No Contact",
   "assets": [
-    "reel.mp4"
+    "reel.mp4",
+    "reel-nomusic.mp4"
   ],
   "title": "reel"
 }
