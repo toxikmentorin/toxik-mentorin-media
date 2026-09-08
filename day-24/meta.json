@@ -1,0 +1,14 @@
+{
+  "day": 24,
+  "weekday": "Mittwoch",
+  "format": "carousel",
+  "pillar": "selbstwert",
+  "pillarLabel": "Selbstwert & Neustart",
+  "assets": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "title": "Der Neuanfang"
+}
