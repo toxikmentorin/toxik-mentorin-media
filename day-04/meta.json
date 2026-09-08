@@ -1,0 +1,11 @@
+{
+  "day": 4,
+  "weekday": "Donnerstag",
+  "format": "reel",
+  "pillar": "muster",
+  "pillarLabel": "Muster erkennen",
+  "assets": [
+    "reel.mp4"
+  ],
+  "title": "reel"
+}
