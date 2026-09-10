@@ -5,7 +5,8 @@
   "pillar": "selbstwert",
   "pillarLabel": "Selbstwert & Neustart",
   "assets": [
-    "reel.mp4"
+    "reel.mp4",
+    "reel-nomusic.mp4"
   ],
   "title": "reel"
 }
