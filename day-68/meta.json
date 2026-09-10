@@ -1,0 +1,12 @@
+{
+  "day": 68,
+  "weekday": "Freitag",
+  "format": "reel",
+  "pillar": "loslassen",
+  "pillarLabel": "Loslassen & No Contact",
+  "assets": [
+    "reel.mp4",
+    "reel-nomusic.mp4"
+  ],
+  "title": "reel"
+}

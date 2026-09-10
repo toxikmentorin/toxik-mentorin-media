@@ -1,0 +1,14 @@
+{
+  "day": 73,
+  "weekday": "Mittwoch",
+  "format": "carousel",
+  "pillar": "muster",
+  "pillarLabel": "Muster erkennen",
+  "assets": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "title": "Die Schmutzkampagne"
+}

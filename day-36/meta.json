@@ -1,0 +1,12 @@
+{
+  "day": 36,
+  "weekday": "Montag",
+  "format": "reel",
+  "pillar": "selbstwert",
+  "pillarLabel": "Selbstwert & Neustart",
+  "assets": [
+    "reel.mp4",
+    "reel-nomusic.mp4"
+  ],
+  "title": "reel"
+}

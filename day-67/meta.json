@@ -1,0 +1,12 @@
+{
+  "day": 67,
+  "weekday": "Donnerstag",
+  "format": "reel",
+  "pillar": "muster",
+  "pillarLabel": "Muster erkennen",
+  "assets": [
+    "reel.mp4",
+    "reel-nomusic.mp4"
+  ],
+  "title": "reel"
+}

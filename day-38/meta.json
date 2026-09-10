@@ -1,0 +1,14 @@
+{
+  "day": 38,
+  "weekday": "Mittwoch",
+  "format": "carousel",
+  "pillar": "loslassen",
+  "pillarLabel": "Loslassen & No Contact",
+  "assets": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "title": "Warum Loslassen wehtut"
+}
