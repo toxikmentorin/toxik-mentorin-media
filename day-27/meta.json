@@ -7,5 +7,9 @@
   "assets": [
     "post.png"
   ],
+  "storyAssets": [
+    "story-01.png",
+    "story-02.png"
+  ],
   "title": "Selbstliebe"
 }
