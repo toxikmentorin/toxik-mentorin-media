@@ -2,11 +2,36 @@
   "day": 36,
   "weekday": "Montag",
   "format": "reel",
-  "pillar": "selbstwert",
-  "pillarLabel": "Selbstwert & Neustart",
-  "assets": [
-    "reel.mp4",
-    "reel-nomusic.mp4"
-  ],
-  "title": "reel"
+  "items": [
+    {
+      "time": "06:00",
+      "pillar": "selbstwert",
+      "pillarLabel": "Selbstwert & Neustart",
+      "assets": [
+        "reel-am.mp4",
+        "reel-am-nomusic.mp4"
+      ],
+      "caption": "caption-am.txt",
+      "storyAssets": [
+        "story-am-01.png",
+        "story-am-02.png"
+      ],
+      "title": "Du brauchst keine {{neue}} Partnerin."
+    },
+    {
+      "time": "18:00",
+      "pillar": "muster",
+      "pillarLabel": "Muster erkennen",
+      "assets": [
+        "reel-pm.mp4",
+        "reel-pm-nomusic.mp4"
+      ],
+      "caption": "caption-pm.txt",
+      "storyAssets": [
+        "story-pm-01.png",
+        "story-pm-02.png"
+      ],
+      "title": "Er meldet sich tagelang nicht."
+    }
+  ]
 }

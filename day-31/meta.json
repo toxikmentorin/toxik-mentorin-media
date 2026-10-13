@@ -1,20 +1,37 @@
 {
   "day": 31,
   "weekday": "Mittwoch",
-  "format": "carousel",
-  "pillar": "muster",
-  "pillarLabel": "Muster erkennen",
-  "assets": [
-    "slide-01.png",
-    "slide-02.png",
-    "slide-03.png",
-    "slide-04.png"
-  ],
-  "storyAssets": [
-    "story-01.png",
-    "story-02.png",
-    "story-03.png",
-    "story-04.png"
-  ],
-  "title": "Die Schmutzkampagne"
+  "format": "reel",
+  "items": [
+    {
+      "time": "06:00",
+      "pillar": "muster",
+      "pillarLabel": "Muster erkennen",
+      "assets": [
+        "reel-am.mp4",
+        "reel-am-nomusic.mp4"
+      ],
+      "caption": "caption-am.txt",
+      "storyAssets": [
+        "story-am-01.png",
+        "story-am-02.png"
+      ],
+      "title": "Er steht nach 3 Wochen mit Koffern vor deiner Tür."
+    },
+    {
+      "time": "18:00",
+      "pillar": "loslassen",
+      "pillarLabel": "Loslassen & No Contact",
+      "assets": [
+        "reel-pm.mp4",
+        "reel-pm-nomusic.mp4"
+      ],
+      "caption": "caption-pm.txt",
+      "storyAssets": [
+        "story-pm-01.png",
+        "story-pm-02.png"
+      ],
+      "title": "No Contact ist keine Strafe für ihn."
+    }
+  ]
 }
